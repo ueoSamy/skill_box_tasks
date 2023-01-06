@@ -16,7 +16,12 @@ month = 0
 for count in range(1, buckwheat // 4):
     month += 1
     print('Прошел', month, 'месяц')
+    print('Потрачено 4 кг гречки')
     buckwheat -= 4
     print('В запасе', buckwheat, 'кг гречки')
     print()
+
+
+print('Ваш запас иссяк')
+
 
