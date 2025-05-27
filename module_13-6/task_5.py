@@ -17,3 +17,4 @@ if initial_amplitude > 0 and stop_amplitude > 0 and initial_amplitude > stop_amp
     print(f"Маятник считается остановившимся через {result} колебаний")
 else:
     print("Ошибка: введите корректные значения амплитуд!")
+    
